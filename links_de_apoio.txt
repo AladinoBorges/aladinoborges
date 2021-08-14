@@ -1,0 +1,18 @@
+Cards:
+  https://github.com/anuraghazra/github-readme-stats
+
+Emojis:
+  https://emojipedia.org
+
+Icones das linguagens e tecnologias:
+  https://devicon.dev
+  https://github.com/devicons/devicon/tree/master/icons
+
+Criação da imagem para GIF:
+  https://picrew.me/image_maker/338224
+
+Badges:
+  https://dev.to/envoy_/150-badges-for-github-pnk
+
+Criação de GIFs:
+  https://ezgif.com/
