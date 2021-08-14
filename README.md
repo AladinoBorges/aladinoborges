@@ -8,11 +8,10 @@
 > e liberto das dores.
 > um filho do mar.
 
-- 🔭 trabalho atualmente com frontend (react, material ui - bulma css, javascript, mysql, mongodb)
-- 🌱 de momento estudo c++ e desenvolvimento web fullstack, ambos os cursos terminarão em fevereiro de 2022.
-- 👯 aberto para colaborar em projetos de desenvolvimento de software - web que impactem positivamente a vida das pessoas.
-- 📫 podes encontrar-me nas redes sociais (em hiato até fevereiro de 2022):
-
+- 🔭 sou desenvolvedor frontend (react, material ui - bulma css, javascript, mysql, mongodb)
+- 🌱 estudo c++ e desenvolvimento web fullstack, ambos os cursos terminarão em fevereiro de 2022.
+- 👯 estou aberto para colaborar em projetos de desenvolvimento de software - web que impactem positivamente a vida das pessoas.
+- 📫 podes encontrar-me nas redes sociais (em hiato até fevereiro de 2022). todos os links podem ser encontrados na aba de _badges_.
 - 💬 podemos conversar sobre qualquer assunto, em especial programação e algoritmos, arte, matemática, universo, sentido da vida, fotografia.
 - ⚡ factos curiosos: escrevo uma infinidade de textos literários e na mesma medida componho músicas. amo piano, muito! tenho 1,98 metros de altura e sou uma pessoa (quase) estóica. considero-me um cidadão do mundo e até ao momento conheço quatro países e vivi em três continentes diferentes. as minhas duas máximas são: _o planeta terra é grande em demasia para permanecer estático no mesmo lugar. a única liberdade humana é o amor, que tal como a matéria, não se prende a um início ou planos metafísicos e não se dissipa com os conceitos humanos do fim._
 
