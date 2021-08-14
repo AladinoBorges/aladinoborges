@@ -8,8 +8,6 @@
 > e liberto das dores.
 > um filho do mar.
 
-##
-
 - 🔭 trabalho atualmente com frontend (react, material ui - bulma css, javascript, mysql, mongodb)
 - 🌱 de momento estudo c++ e desenvolvimento web fullstack, ambos os cursos terminarão em fevereiro de 2022.
 - 👯 aberto para colaborar em projetos de desenvolvimento de software - web que impactem positivamente a vida das pessoas.
@@ -24,9 +22,8 @@
 
 <div>
   <a href="https://github.com/AladinoBorges">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aladinoborges&count_private=true&show_icons=true&theme=tokyonight&custom_title=contribui%C3%A7%C3%B5es" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladinoborges&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&custom_title=linguagens" />
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aladinoborges&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&custom_title=contribui%C3%A7%C3%B5es" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=aladinoborges&langs_count=10&layout=compact&theme=tokyonight&custom_title=linguagens&card_width=250em" />
 </div>
 
 <div style="display: inline-block">
