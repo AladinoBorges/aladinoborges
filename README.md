@@ -27,7 +27,7 @@
 
 <div style="display: inline-block">
   <br>
-  <img align="center" alt="aladino-C++" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" />
+  <img align="center" alt="aladino-C++" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="aladino-JS" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="aladino-React" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" alt="aladino-Redux" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
