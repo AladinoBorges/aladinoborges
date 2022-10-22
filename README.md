@@ -39,7 +39,6 @@
   <img align="center" alt="aladino-Bootstrap" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="aladino-NodeJS" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="aladino-Git" height="40em" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" />
-  <img align="right" alt="aladino-gamer" width="120em" src="https://github.com/AladinoBorges/aladinoborges/blob/main/ezgif.com-gif-maker.gif" />
 </div>
 
 ##
